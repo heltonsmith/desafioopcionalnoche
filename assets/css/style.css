@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+
+/* div{
+    border: 1px solid red;
+} */
+.bi-star-fill{
+    color: gold;
+}
+.bi-star-half{
+    color: gold;
+}
+
+#testimonal-section{
+    background: #f9f9ff;
+}
