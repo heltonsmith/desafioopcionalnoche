@@ -11,6 +11,9 @@ body{
 .bi-star-half{
     color: gold;
 }
+#navbarNav li {
+    margin-left: 2em;
+}
 
 #testimonal-section{
     background: #f9f9ff;
